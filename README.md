@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/7864338/212232718-f8214fdb-502e-4e9c-9942-f509f325f0df.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador LucasCode">
 
 <p align="left"> 
   Apaixonado por tecnologia desde meus 13 anos e principalmente em saber que posso mudar a vida de diversas pessoas, construir propósitos e resolver problemas.
