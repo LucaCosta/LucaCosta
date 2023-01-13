@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> C, C++, Docker e Git.</strong>
+  🚀 Linguagens: <strong> C, C++, Docker e Git.</strong>
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo através das minhas redes sociais: ⤵️
+  ⭐ Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
 
 <p align="left">
