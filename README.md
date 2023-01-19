@@ -1,14 +1,14 @@
 <img src="https://user-images.githubusercontent.com/7864338/212232718-f8214fdb-502e-4e9c-9942-f509f325f0df.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador LucasCode">
 
 <p align="left"> 
-  Apaixonado por tecnologia desde meus 13 anos e principalmente em saber que posso mudar a vida de diversas pessoas, construir propósitos e resolver problemas. </p>
+  Apaixonado por tecnologia desde meus 13 anos e principalmente em saber que posso mudar a vida de diversas pessoas, construir propósitos e resolver problemas.
+</p>
  <p align="left">
-  Aspirante a Engenheiro Eletricista com foco na área de robótica.
-  Atualmente estudando Arduino, C, C++ e Docker. Tendo tambem conhecimento básico em front-end.
+  Aspirante a Engenheiro Eletricista com foco na área de robótica, e atualmente envolvido com desenvolvimento de software. Estou aprendendo sobre métodos ágeis que já utilizo no dia a dia e almejando fluência no inglês.
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong> C, C++, Docker e Git.</strong>
+  🚀 Linguagens: <strong> C, C++, Python, Docker e Git.</strong>
 </p>
 
 <p align="left">
