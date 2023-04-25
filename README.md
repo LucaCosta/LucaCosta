@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🧑‍💻 Soft skills: <strong>Capacidde de resolver problemas, pensamento analítico e gestão de tempo.</strong>
+  🧑‍💻 Soft skills: <strong>Capacidade de resolver problemas, pensamento analítico e gestão de tempo.</strong>
 </p>
 
 <p align="left">
