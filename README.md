@@ -16,6 +16,10 @@
 </p>
 
 <p align="left">
+  🧑‍💻 Soft skills: <strong>Capacidde de resolver problemas, pensamento analítico e gestão de tempo.</strong>
+</p>
+
+<p align="left">
   ⭐ Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
 
