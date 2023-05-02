@@ -4,7 +4,7 @@
   Apaixonado por tecnologia desde meus 13 anos e principalmente em saber que posso mudar a vida de diversas pessoas, construir propósitos e resolver problemas.
 </p>
  <p align="left">
-  Aspirante a Engenheiro Eletricista com foco na área de robótica e atualmente envolvido com desenvolvimento de software. Estou aprendendo sobre métodos ágeis que já utilizo no dia a dia e almejando fluência no inglês.
+  Estudante de Engenharia Elétrica com foco na área de robótica e atualmente envolvido com desenvolvimento de software. Estou aprendendo sobre métodos ágeis que já utilizo no dia a dia e almejando fluência no inglês.
 </p>
 
 <p align="left">
